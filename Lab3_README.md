@@ -1,6 +1,6 @@
 # Lab 3 — Phishing Detection (Google Colab)
 
-Full GitHub‑style documentation for a phishing detection ML project.
+Documentation for a phishing detection ML project.
 
 ## 🔍 Overview
 This lab trains ML models (Decision Tree, Random Forest) using URL lexical features to classify phishing vs. benign URLs.
