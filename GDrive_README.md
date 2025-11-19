@@ -1,6 +1,6 @@
 # Google Drive Encryptor — AES + Drive API
 
-A GitHub‑style README for a Python encryption tool integrating AES + Google Drive API.
+README for a Python encryption tool integrating AES + Google Drive API.
 
 ## 🔐 Features
 - AES‑EAX encryption/decryption  
