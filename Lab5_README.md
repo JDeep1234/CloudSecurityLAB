@@ -1,6 +1,6 @@
 # Lab 5 — Heroku SQL Injection Demo
 
-A complete GitHub‑ready README documenting a vulnerable and secure SQL injection demo app deployed on Heroku.
+README documenting a vulnerable and secure SQL injection demo app deployed on Heroku.
 
 ## 🚀 Overview
 This project demonstrates:
