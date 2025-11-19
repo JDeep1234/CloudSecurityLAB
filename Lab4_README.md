@@ -1,6 +1,6 @@
 # Lab 4 — AWS CloudWatch Monitoring
 
-A GitHub‑formatted guide to automate monitoring, alarms, SNS alerts, and dashboards for an EC2 instance.
+Guide to automate monitoring, alarms, SNS alerts, and dashboards for an EC2 instance.
 
 ## 🎯 Objective
 Set up:
