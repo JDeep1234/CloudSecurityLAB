@@ -1,6 +1,6 @@
 # Lab 2 — Firebase MFA (React App)
 
-A GitHub‑ready README for a React + Firebase MFA authentication demo.
+README for a React + Firebase MFA authentication demo.
 
 ## 🔐 Features
 - Email/password signup  
