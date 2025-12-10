@@ -10,20 +10,20 @@ A comprehensive collection of hands-on cloud security labs covering encryption, 
 
 ## 📚 Lab Index
 
-| Lab | Title | Technologies | Description |
-|-----|-------|--------------|-------------|
-| 1️⃣ | [Encrypted Cloud Storage](./README_Lab1_GDrive_Encrypt.md) | Python, Google Drive API, AES | Client-side encryption with cloud storage |
-| 2️⃣ | [Firebase MFA](./README_Lab2_Firebase_MFA.md) | React, Firebase Auth, SMS | Multi-factor authentication implementation |
-| 3️⃣ | [Phishing Detection](./README_Lab3_Phishing_Detection.md) | Python, ML, Google Colab | Machine learning for phishing URL detection |
-| 4️⃣ | [AWS CloudWatch Monitoring](./README_Lab4_AWS_CloudWatch.md) | AWS, EC2, SNS, CloudWatch | Cloud security monitoring & alerting |
-| 5️⃣ | [SQL Injection Prevention](./README_Lab5_SQL_Injection.md) | Node.js, PostgreSQL, Heroku | Secure coding & vulnerability testing |
+| Lab | Title | Technologies | Guide | Write-Up |
+|-----|-------|--------------|-------|----------|
+| 1️⃣ | Encrypted Cloud Storage | Python, Google Drive API, AES | [📖 Guide](./README_Lab1_GDrive_Encrypt.md) | [📝 Write-Up](./Lab1_WriteUp.md) |
+| 2️⃣ | Firebase MFA | React, Firebase Auth, SMS | [📖 Guide](./README_Lab2_Firebase_MFA.md) | [📝 Write-Up](./Lab2_WriteUp.md) |
+| 3️⃣ | Phishing Detection | Python, ML, Google Colab | [📖 Guide](./README_Lab3_Phishing_Detection.md) | [📝 Write-Up](./Lab3_WriteUp.md) |
+| 4️⃣ | AWS CloudWatch Monitoring | AWS, EC2, SNS, CloudWatch | [📖 Guide](./README_Lab4_AWS_CloudWatch.md) | [📝 Write-Up](./Lab4_WriteUp.md) |
+| 5️⃣ | SQL Injection Prevention | Node.js, PostgreSQL, Heroku | [📖 Guide](./README_Lab5_SQL_Injection.md) | [📝 Write-Up](./Lab5_WriteUp.md) |
 
 ---
 
 ## 🔬 Lab Details
 
 ### 🔐 Lab 1: Encrypted Cloud File Storage System
-**[📖 View Full Guide](./README_Lab1_GDrive_Encrypt.md)**
+**[📖 View Full Guide](./README_Lab1_GDrive_Encrypt.md)** | **[📝 Lab Write-Up](./Lab1_WriteUp.md)**
 
 Build a Python application that encrypts files locally with **AES-128 encryption** before uploading to Google Drive using OAuth 2.0. Demonstrates secure cloud storage with client-side encryption.
 
@@ -36,7 +36,7 @@ Build a Python application that encrypts files locally with **AES-128 encryption
 ---
 
 ### 🔑 Lab 2: Firebase Multi-Factor Authentication
-**[📖 View Full Guide](./README_Lab2_Firebase_MFA.md)**
+**[📖 View Full Guide](./README_Lab2_Firebase_MFA.md)** | **[📝 Lab Write-Up](./Lab2_WriteUp.md)**
 
 Create a React application with Firebase Authentication supporting email/password login, email verification, and **SMS-based MFA**. Users enroll phone numbers as second factors.
 
@@ -49,7 +49,7 @@ Create a React application with Firebase Authentication supporting email/passwor
 ---
 
 ### 🎣 Lab 3: Phishing Website Detection
-**[📖 View Full Guide](./README_Lab3_Phishing_Detection.md)**
+**[📖 View Full Guide](./README_Lab3_Phishing_Detection.md)** | **[📝 Lab Write-Up](./Lab3_WriteUp.md)**
 
 Implement phishing detection using **machine learning** in Google Colab. Train Decision Tree and Random Forest classifiers on URL features to identify malicious websites.
 
@@ -62,7 +62,7 @@ Implement phishing detection using **machine learning** in Google Colab. Train D
 ---
 
 ### 📊 Lab 4: AWS CloudWatch Security Monitoring
-**[📖 View Full Guide](./README_Lab4_AWS_CloudWatch.md)**
+**[📖 View Full Guide](./README_Lab4_AWS_CloudWatch.md)** | **[📝 Lab Write-Up](./Lab4_WriteUp.md)**
 
 Set up a monitoring and alerting system using **AWS CloudWatch**. Monitor EC2 CPU utilization, configure SNS alerts, and create visualization dashboards.
 
@@ -75,7 +75,7 @@ Set up a monitoring and alerting system using **AWS CloudWatch**. Monitor EC2 CP
 ---
 
 ### 💉 Lab 5: SQL Injection Prevention
-**[📖 View Full Guide](./README_Lab5_SQL_Injection.md)**
+**[📖 View Full Guide](./README_Lab5_SQL_Injection.md)** | **[📝 Lab Write-Up](./Lab5_WriteUp.md)**
 
 Deploy a Node.js application on Heroku demonstrating **SQL injection vulnerabilities** and their prevention using parameterized queries. Includes both vulnerable and secure endpoints.
 
